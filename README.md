@@ -1,6 +1,6 @@
 # Extracting and Visualizing Stock Data
 
-This project extracts historical stock price data for **Tesla (TSLA)** and
+This was a Coursera data science course project which extracts historical stock price data for **Tesla (TSLA)** and
 **GameStop (GME)** using [yfinance](https://pypi.org/project/yfinance/),
 scrapes their quarterly revenue data from web pages using
 [BeautifulSoup](https://pypi.org/project/beautifulsoup4/), and visualizes
